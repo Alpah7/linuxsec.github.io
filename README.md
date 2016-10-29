@@ -1,4 +1,6 @@
-# linuxsec.github.io
-Hii my friends..
-Welcome to my page. Here is my project for creating vulnerable OS to learning website security
-www.linuxsec.org
+# linuxSec - Indonesian Linux Portal
+Linuxsec.org Official Github Pages.
+Learn all about Linux and Security at : www.linuxsec.org
+
+Best Regards 
+- Jack Wilder
