@@ -43,3 +43,5 @@ function update()
     }
 }
 setInterval(update,1000);
+var audio = document.currentScript.parentElement;
+        audio.volume = 0.1;
